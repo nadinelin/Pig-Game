@@ -1,6 +1,6 @@
 # Assignment One
 # Ruby - Game of Pig
-# Written by: Nadine Lin (20829106)
+# Written by: Nadine Lin 
 
 class Game
     # Instance variables
